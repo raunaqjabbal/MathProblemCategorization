@@ -1,6 +1,7 @@
-# MathProblemCategorization
+# [MathProblemCategorization](https://www.kaggle.com/competitions/math-problem-categorization/)
 
 ## Overview
+
 
 The goal of this competition is to develop a machine-learning model that can accurately categorize math problems based on the text of the problem. This challenge is an excellent opportunity to apply and sharpen your text classification skills in a unique context, that of Mathematical problems.
 
@@ -29,9 +30,10 @@ Looking at the private leaderboard, my results come at rank 3-4.
 
 ![image](https://github.com/raunaqjabbal/MathProblemCategorization/assets/30532162/4b6bfc4b-6f7f-4e20-bfb5-597594030f6f)
 
-Private Leaderboard: 
-![image](https://github.com/raunaqjabbal/MathProblemCategorization/assets/30532162/37aad68b-47af-476f-9ce6-e3284ecd85c6)
+### Private Leaderboard:
 
-Public Leaderboard:
+![image](https://github.com/raunaqjabbal/MathProblemCategorization/assets/30532162/84e697af-9f32-4b26-9e93-c77e741df051)
+
+### Public Leaderboard:
 ![image](https://github.com/raunaqjabbal/MathProblemCategorization/assets/30532162/707f551b-483d-4256-b98e-4dba56ddb250)
 
