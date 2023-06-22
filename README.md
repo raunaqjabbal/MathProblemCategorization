@@ -20,9 +20,18 @@ What I could've done: used augmented data and a BERT model, like a model from sm
 
 
 ## Results
-I was given the kaggle competition link 2 days ago, and the kaggle competition closed about 15 days ago.
-looking at the private leaderboard, my results come at rank 4, but other teams could've gotten equivalent or higher scores in this 15 day period.
 
-![image](https://github.com/raunaqjabbal/MathProblemCategorization/assets/30532162/3a3d2a6b-b274-4fa9-adec-38faa037a0e3)
+I was given the kaggle competition link 2 days ago, and the kaggle competition closed about 15 days ago. Other teams could've gotten equivalent or higher scores in this 15 day period.
+Looing at the public leaderboard, 
 
+Looking at the private leaderboard, my results come at rank 3-4.
+
+
+![image](https://github.com/raunaqjabbal/MathProblemCategorization/assets/30532162/4b6bfc4b-6f7f-4e20-bfb5-597594030f6f)
+
+Private Leaderboard: 
 ![image](https://github.com/raunaqjabbal/MathProblemCategorization/assets/30532162/37aad68b-47af-476f-9ce6-e3284ecd85c6)
+
+Public Leaderboard:
+![image](https://github.com/raunaqjabbal/MathProblemCategorization/assets/30532162/707f551b-483d-4256-b98e-4dba56ddb250)
+
