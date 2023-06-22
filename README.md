@@ -1,6 +1,6 @@
 # MathProblemCategorization
 
-##Overview
+## Overview
 
 The goal of this competition is to develop a machine-learning model that can accurately categorize math problems based on the text of the problem. This challenge is an excellent opportunity to apply and sharpen your text classification skills in a unique context, that of Mathematical problems.
 
